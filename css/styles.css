@@ -1,7 +1,10 @@
 /******Tag Selectors*******/
+body{
+    font-family: "Montserrat";
+}
 h1 {  
-    font-family: 'Montserrat';  
-    font-size: 3rem;  
+    font-family: "Montserrat";  
+    font-size: 3.5rem;  
     line-height: 1.5;
     font-weight: 900;
 }
@@ -14,12 +17,44 @@ h1 {
 /******ID Selectors*******/
 #title {
     background-color: #ff4c68;
+    color: #fff;
 }
 
+/******Navigation Bar*****/
+.navbar{
+    padding-bottom: 4.5rem;
+}
 
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: 500;
+}
 
+.nav-item{
+    padding: 0 18px;
+}
 
+.nav-link{
+    font-family: "Montserrat";
+    font-size: 1.2rem;
+    font-weight: light;
+}
 
+/******Download Buttons******/
+.apple-ios-download-btn{
+    margin:5% 3% 5% 0%;
+}
+
+.google-playstore-download-btn{
+
+}
+
+/******Title Image******/
+.title-img{
+    width: 60%;
+    transform: rotate(25deg);
+}
 
 
 
