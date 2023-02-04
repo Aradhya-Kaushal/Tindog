@@ -117,9 +117,22 @@ p{
     width: 15%;
     margin: 20px 20px 50px;
 }
+/*Pricing*/
+#pricing .row .card .card-body .btn {
+    width: 100%;
+}
+.pricing-col{
+    padding: 3% 2%;
+    text-align: center;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
 
-
-
+#pricing .s-8{
+    margin: 50px;
+}
 
 
 
